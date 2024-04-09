@@ -42,3 +42,7 @@
 
 2024-04-09T03:33:05+00:00 CRITICAL Out of memory (allocated 56623104) (tried to allocate 4194304 bytes) in /wordpress/wp-admin/includes/file.php on line 2
 
+2024-04-09T03:56:31+00:00 CRITICAL Out of memory (allocated 60817408) (tried to allocate 4194304 bytes) in /wordpress/wp-content/plugins/woocommerce/src/Admin/API/Reports/Variations/Controller.php on line 121
+
+2024-04-09T03:56:35+00:00 CRITICAL Out of memory (allocated 58720256) (tried to allocate 4194304 bytes) in /wordpress/wp-admin/includes/file.php on line 2
+
