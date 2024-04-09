@@ -46,3 +46,5 @@
 
 2024-04-09T03:56:35+00:00 CRITICAL Out of memory (allocated 58720256) (tried to allocate 4194304 bytes) in /wordpress/wp-admin/includes/file.php on line 2
 
+2024-04-09T04:07:10+00:00 CRITICAL Out of memory (allocated 41943040) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/woocommerce/src/StoreApi/Utilities/ProductItemTrait.php on line 73
+
